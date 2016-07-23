@@ -47,7 +47,6 @@ function draw() {
   fill(102, 0, 102,90)
   rect(1050,50,80,1200)
   
-  text("testing",50,50)
 
   
 }
